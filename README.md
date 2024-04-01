@@ -1,5 +1,5 @@
 # Objective
-Learn to create a quick API with Flask.
+Learn to create a quick API with Flask (Python).
 
 ## Run
 `flask --app flaskr run --debug`  
